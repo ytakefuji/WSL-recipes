@@ -5,11 +5,11 @@ WSL stands for Windows Subsystem for Linux.
 When installing Ubuntu on Windows using Microsoft Store, 
 you can run Linux commands.
 
-When installing Python3.x on WSL, your Python program is 
+When installing Python3.x on WSL, your Python program using miniconda is 
 at /home/your_name/miniconda3/bin/python.
 
 Since WSL did not fully implement USB device drivers, 
-the USB device including camera cannot be used.
+the USB device including camera cannot be used on WSL.
 
 However, you can run the USB camera on WSL!
 
